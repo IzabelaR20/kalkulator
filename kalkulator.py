@@ -18,6 +18,9 @@ def divide(x, y):
    
 def new1(x):
    return x / 100
+   
+def new2(x):
+   return x / 200
 
 print("Select operation.")
 print("1.Add")
